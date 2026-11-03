@@ -31,7 +31,10 @@ Team Members
 
 The CampusConnect project was developed collaboratively by a team of four members. Each member was assigned a specific responsibility and contributed to the project documentation through Git branches, commits, pull requests, and collaborative reviews.
 
-Rica Joy Dela Vega — Project Overview: Responsible for preparing the project overview and describing the purpose and objectives of CampusConnect.
-John Arnold Palatan — Features: Responsible for documenting the key features and functionalities of the CampusConnect platform.
-Brian Kyle Beto — How to Use: Responsible for preparing the instructions on how users can navigate and use CampusConnect.
-Carlo Gejos — Team Members and Final Documentation Review:** Responsible for documenting the team members and reviewing the overall README to ensure clarity, consistency, and completeness.
+Member 1: Rica Joy Dela Vega — Project Overview: Responsible for preparing the project overview and describing the purpose and objectives of CampusConnect.
+
+Member 2: John Arnold Palatan — Features: Responsible for documenting the key features and functionalities of the CampusConnect platform.
+
+Member 3: Brian Kyle Beto — How to Use: Responsible for preparing the instructions on how users can navigate and use CampusConnect.
+
+Member 4: Carlo Gejos — Team Members and Final Documentation Review, Responsible for documenting the team members and reviewing the overall README to ensure clarity, consistency, and completeness
