@@ -1,8 +1,10 @@
 # campusconnect-team
 
-PROJECT OVERVIEW
+## PROJECT OVERVIEW
 
-CampusConnect is a fictional campus event finder project designed to help students discover upcoming events and activities in their school. It provides information about different campus events, such as seminars, workshops, sports competitions, student organization activities, and school celebrations. The main goal of CampusConnect is to make it easier for students to find information about school events, stay updated on upcoming activities, and participate in campus life.
+CampusConnect is a fictional campus event finder designed to help students easily discover and stay informed about activities happening within their school. It features different types of campus events, including seminars, workshops, sports competitions, student organization activities, and school celebrations.
+
+The project aims to provide students with an accessible way to explore upcoming events, view important event details, and stay updated on school activities. Through CampusConnect, students can become more involved in campus life and avoid missing events that match their interests.
 
 FEATURES
 
