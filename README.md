@@ -25,14 +25,11 @@ HOW TO USE
 6. Review your registration details to confirm that you have successfully registered for the event.
 7. Take note of the event schedule and location so you can attend on time.
 
-TEAM MEMBERS
+Team Members
 
-Our team consists of four members who collaborated to develop the CampusConnect project documentation using GitHub. Each member was assigned a specific section and contributed through branches, commits, and pull requests.
+The CampusConnect project was developed collaboratively by a team of four members. Each member was assigned a specific responsibility and contributed to the project documentation through Git branches, commits, pull requests, and collaborative reviews.
 
-Member 1: Rica Joy Dela Vega – Responsible for the Project Overview section.
-
-Member 2: John Arnold Palatan – Responsible for the Features section.
-
-Member 3: Brian Kyle Beto – Responsible for the How to Use section.
-
-Member 4: Carlo Gejos – Responsible for the Team Members section and final documentation review.
+Rica Joy Dela Vega — Project Overview: Responsible for preparing the project overview and describing the purpose and objectives of CampusConnect.
+John Arnold Palatan — Features: Responsible for documenting the key features and functionalities of the CampusConnect platform.
+Brian Kyle Beto — How to Use: Responsible for preparing the instructions on how users can navigate and use CampusConnect.
+Carlo Gejos — Team Members and Final Documentation Review:** Responsible for documenting the team members and reviewing the overall README to ensure clarity, consistency, and completeness.
