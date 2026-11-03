@@ -15,15 +15,15 @@ FEATURES
 
 HOW TO USE
 
-1. Visit the CampusConnect webiste
-2. Register or log in if you have already an account.
-3. Browse the list of available campus events.
-4. Enter an event name or keyword to find a specific activity.
-5. Browse events by category, such as academic, sports, or social activities.
-4. Select an event to see its date, time, location, and description.
-5. Select your chosen event and click the registration button to sign up. Fill in the required information and submit your registration.
-6. Review your registration details to confirm that you have successfully registered for the event.
-7. Take note of the event schedule and location so you can attend on time.
+1. Visit the CampusConnect Website. Open the CampusConnect website using your preferred web browser.
+2. Register or Log In. Create an account if you are a new user. If you already have an account, enter your login credentials to access the platform.
+3. Explore Available Events. Browse the list of upcoming campus events and activities posted on the website.
+4. Search for Specific Events. Use the search bar to enter an event name or keyword to quickly find a particular activity.
+5. Browse Events by Category. Explore different event categories, such as academic, sports, and social activities, to find events that match your interests.
+6. View Event Details. Select an event to see important information, including its name, date, time, location, and description.
+7. Register for an Event. Choose your preferred event and click the registration button. Fill in the required information and submit your registration.
+8. Confirm Your Registration. Review your registration details and check for a confirmation message to ensure that your registration was successful.
+9. Attend the Event. Take note of the event's date, time, and location so you can arrive on time and participate in the activity.
 
 Team Members
 
